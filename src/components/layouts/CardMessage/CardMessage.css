@@ -1,0 +1,14 @@
+.message {
+    background-color: #25262C;
+    padding: 10px 20px;
+    border-radius: 6px;
+    margin-bottom: 12px;
+}
+
+.message p {
+    text-align: center;
+    font-size: 16px;
+    font-weight: 500;
+    color: #fdfdfd;
+    letter-spacing: 1px;
+}

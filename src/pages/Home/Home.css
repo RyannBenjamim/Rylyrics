@@ -1,0 +1,17 @@
+.home {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    min-height: 85vh;
+}
+
+.home img {
+    width: 50%;
+    opacity: 80%;
+}
+
+@media (max-width: 600px) {
+    .home img {
+        width: 90%;
+    }
+}

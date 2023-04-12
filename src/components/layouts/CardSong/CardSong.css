@@ -1,0 +1,28 @@
+.card {
+    background-color: #25262C;
+    padding: 10px 20px;
+    border-radius: 6px;
+    margin-bottom: 12px;
+    cursor: pointer;
+    transition: 0.2s ease-in;
+}
+
+.card:hover {
+    background-color: #3a3a3f;
+}
+
+.card .music-name {
+    font-size: 16px;
+    font-weight: 500;
+    color: #fdfdfd;
+    letter-spacing: 1px;
+    text-overflow: ellipsis;
+}
+
+.card .artist-name {
+    font-size: 13px;
+    font-weight: 500;
+    color: #fdfdfd;
+    letter-spacing: 1px;
+    margin-top: 5px;
+}

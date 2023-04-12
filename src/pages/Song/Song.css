@@ -1,0 +1,9 @@
+.song-box {
+    min-height: 100vh;
+    margin-bottom: 150px;
+
+    background-color: #121317;
+    padding: 20px 15px;
+    padding-bottom: 40px;
+    border-radius: 10px;
+}
